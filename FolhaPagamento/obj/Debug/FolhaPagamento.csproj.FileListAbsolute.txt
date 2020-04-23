@@ -1,0 +1,10 @@
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.frmHollerit.resources
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.Cache
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+F:\SEMESTRE 5\WEBAPPs\Hollerit\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
